@@ -25,6 +25,11 @@ body {
   font-family: arial;
 }
 
+.game-over-a {
+  text-decoration: none;
+  font-family: arial;
+}
+
 @keyframes slideright {
   from {
       background-position: 70000%;
